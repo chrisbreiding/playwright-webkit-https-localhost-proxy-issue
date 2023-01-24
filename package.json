@@ -9,7 +9,7 @@
     "@playwright/test": "^1.29.1",
     "debugging-proxy": "^1.6.0",
     "http-server": "^14.1.1",
-    "playwright": "^1.29.1",
+    "playwright": "^1.29.2",
     "playwright-webkit": "^1.29.2"
   },
   "license": "MIT"

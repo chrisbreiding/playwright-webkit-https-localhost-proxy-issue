@@ -1,18 +1,18 @@
 # Playwright Webkit HTTPS localhost Issue Reproduction
 
-Run the following:
+Install:
 
 ```
 npm install
 ```
 
-In one Terminal instance:
+In one terminal instance, run the app:
 
 ```
 npm start
 ```
 
-In another Terminal instance:
+In another terminal instance, run the test:
 
 ```
 npm test
